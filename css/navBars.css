@@ -1,0 +1,24 @@
+.dropdown-item {
+	color:  whitesmoke;
+}
+
+
+.navbar-light .navbar-nav .nav-link {
+color:  whitesmoke;
+font-size: 22px;
+}
+.navbar-light .navbar-nav .nav-link:hover {
+color: #B91C05;
+}
+
+.flex-column .nav-link {
+color:  black;
+font-size: 16px;
+
+}
+
+.flex-column .nav-link:hover  {
+
+background-color:  #A1A1A1;
+
+}
